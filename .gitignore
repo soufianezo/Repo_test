@@ -1,0 +1,6 @@
+# tout ignore 
+/* 
+# ne pas ignorer
+!.gitignore 
+!logo*
+/TESTS
