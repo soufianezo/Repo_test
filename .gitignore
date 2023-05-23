@@ -1,6 +1,4 @@
-# tout ignore 
 /* 
-# ne pas ignorer
-!.gitignore 
-!logo*
-/TESTS
+!.gitignore
+!README.md
+!/TESTS
